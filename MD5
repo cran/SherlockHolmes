@@ -1,4 +1,4 @@
-e99a279ffce3e60fc2e40da1d7401fc3 *DESCRIPTION
+89a5c11fde7ea6087baaf2d58a6c9fb7 *DESCRIPTION
 56bec3be79fbd8f452ab3184eb947170 *NAMESPACE
 40f0be0c9c5e9ae62caae3185cce36b9 *R/Sherlock.R
 02b687cf19b3701adf7fa602c1a51541 *R/data.R
@@ -17,10 +17,10 @@ c46a164ebfa102a1ca8db9c71f03fbcf *data/texts.RData
 9b9ca3af8f2f50ed7464780792115051 *data/titles.vec.RData
 46750e778a5cdb4d65c347f8e43df623 *inst/doc/Sherlock.R
 762b5ad51e8b35e5a2e1c81fe7371c7b *inst/doc/Sherlock.Rmd
-8fd7c7f26ef5400627a53b64dc77794e *inst/doc/Sherlock.html
+128b4b32e33d852b53c538fa91f3b5bb *inst/doc/Sherlock.html
 46750e778a5cdb4d65c347f8e43df623 *inst/doc/Sherlock2.R
 85a8c22b3f9b6b085ef18191b334079b *inst/doc/Sherlock2.Rmd
-f0d2e1070bed738a59001adf36c8eb99 *inst/doc/Sherlock2.html
+af9b34f3c2c67f1df42aad43171fe967 *inst/doc/Sherlock2.html
 6bfa5a6848cd3a00d7fc41aa9ddc00c4 *inst/extdata/contents.txt
 9d93e5d0a75ca1d5767221fd2f80e96e *inst/extdata/contents3.txt
 8ec3341d488cff447c738562d509ab92 *inst/extdata/processed_download.txt
